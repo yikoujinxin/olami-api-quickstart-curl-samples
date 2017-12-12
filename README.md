@@ -10,3 +10,4 @@ The repo is organized as follows:
 
 * [Natural Language Understanding Samples](natural-language-understanding)
 * [Cloud Speech Recognition Samples](cloud-speech-recognition)
+这是我测试的一个例子
